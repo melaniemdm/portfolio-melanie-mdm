@@ -1,0 +1,18 @@
+
+.navigate {
+    text-align:center; 
+    position: relative;
+    top: 20px;
+    width:600px;
+    display: flex;
+    justify-content:space-around;
+    
+}
+.navigate a{
+    outline:2px solid rgb(7, 75, 234);
+    background-color:rgb(7, 75, 234);
+    color: white;
+    padding: 20px;
+    border-radius:50%;
+    text-decoration: none;
+   }
