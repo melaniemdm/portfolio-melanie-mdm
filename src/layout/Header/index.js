@@ -8,7 +8,7 @@ function Header(){
     <img src="LogoId/me.jpg" alt="id melanie" className="idMe"/>
 </div>
 
-        <h1>Bienvenu sur mon Portefoliot</h1>
+        <h1>Bienvenue sur mon Portfolio</h1>
 
 <Navigation/>
         </header>
