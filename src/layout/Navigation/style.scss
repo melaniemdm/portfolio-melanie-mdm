@@ -1,3 +1,4 @@
+@import '../../styles/communs.scss';
 
 .navigate {
     text-align:center; 
@@ -9,8 +10,8 @@
     
 }
 .navigate a{
-    outline:2px solid rgb(7, 75, 234);
-    background-color:rgb(7, 75, 234);
+    outline:2px solid $blue;
+    background-color:$blue;
     color: white;
     padding: 20px;
     border-radius:50%;

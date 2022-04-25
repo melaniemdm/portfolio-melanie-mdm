@@ -1,7 +1,7 @@
 @import '../../styles/communs.scss';
 
 .idMe{
-    box-shadow: 1px 0px 25px 0px rgb(7, 75, 234), 10px 10px 20px green;
+    box-shadow: 1px 0px 25px 0px $blue, 10px 10px 20px green;
     width:150px;
     height:150px;
     border-radius:100%;
@@ -12,6 +12,10 @@
     justify-content:space-between;
     margin: 40px;
     
+}
+.point {
+    background-repeat: repeat;
+    outline: 1px solid green;
 }
 
 @media #{$medium-down} {
