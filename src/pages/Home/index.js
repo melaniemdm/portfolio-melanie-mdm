@@ -1,5 +1,4 @@
 
-import Separator from '../../layout/separateur';
 
 function Home() {
 

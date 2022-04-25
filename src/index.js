@@ -8,13 +8,13 @@ import Presentation from '../src/pages/Presentation';
 import Error from './pages/Error-404';
 import Home from './pages/Home';
 import Projets from './pages/Projets'
-import Separator from '../src/layout/separateur'
+import Separateur from '../src/layout/separateur'
 
 ReactDOM.render(
   <React.StrictMode>
   <Router>
     <Header />
-    <Separator/>
+    <Separateur/>
     <Routes>
       <Route exact path="/home" element={<Home />} />
       <Route exact path="/" element={<Home />} />
