@@ -3,17 +3,22 @@
 .navigate {
     text-align:center; 
     position: relative;
-    top: 20px;
+    top: 40px;
     width:600px;
     display: flex;
     justify-content:space-around;
-    
+    //outline: 1px solid green;
 }
 .navigate a{
-    outline:2px solid $blue;
+    //outline:2px solid $blue;
     background-color:$blue;
-    color: white;
+    color: $blueLight;
+    font-weight:bold;
     padding: 20px;
-    border-radius:50%;
+    border-radius:30% 10%;
     text-decoration: none;
+    &:hover{
+        color:$blue;
+        background-color: $blueLight;
+    }
    }

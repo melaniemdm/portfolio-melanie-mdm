@@ -8,13 +8,14 @@ import Presentation from '../src/pages/Presentation';
 import Error from './pages/Error-404';
 import Home from './pages/Home';
 import Projets from './pages/Projets'
-import Separateur from '../src/layout/separateur'
+//import Separateur from '../src/layout/separateur'
+import Footer from '../src/layout/Footer';
 
 ReactDOM.render(
   <React.StrictMode>
   <Router>
     <Header />
-    <Separateur/>
+    
     <Routes>
       <Route exact path="/home" element={<Home />} />
       <Route exact path="/" element={<Home />} />
@@ -22,6 +23,7 @@ ReactDOM.render(
       <Route exact path="/projets" element={<Projets />} />
       <Route path="*" element={<Error />} />
     </Routes>
+    <Footer/>
   </Router>
 </React.StrictMode>,
 
