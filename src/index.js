@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import Header from "./layout/Header";
 import Presentation from '../src/pages/Presentation';
 import Error from './pages/Error-404';
-import Home from './pages/Home';
+import Accueil from './pages/Accueil';
 import Projets from './pages/Projets'
 //import Separateur from '../src/layout/separateur'
 import Footer from '../src/layout/Footer';
@@ -17,8 +17,8 @@ ReactDOM.render(
     <Header />
     
     <Routes>
-      <Route exact path="/home" element={<Home />} />
-      <Route exact path="/" element={<Home />} />
+      <Route exact path="/accueil" element={<Accueil />} />
+      <Route exact path="/" element={<Accueil />} />
       <Route exact path="/presentation" element={<Presentation />} />
       <Route exact path="/projets" element={<Projets />} />
       <Route path="*" element={<Error />} />
