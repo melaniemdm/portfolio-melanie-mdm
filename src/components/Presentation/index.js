@@ -1,4 +1,4 @@
-function Presentation(){
+function PresentMe(){
     return (
         <div>
 
@@ -6,4 +6,4 @@ function Presentation(){
         </div>
     )
 }
-export default Presentation
+export default PresentMe
