@@ -1,5 +1,8 @@
 @import '../../styles/communs.scss';
-
+label, #toggle
+{
+    display: none;
+}
 .navigate {
     text-align:center; 
     position: relative;
@@ -7,7 +10,7 @@
     width:600px;
     display: flex;
     justify-content:space-around;
-    //outline: 1px solid green;
+   // outline: 20px solid green;
 }
 .navigate a{
     //outline:2px solid $blue;
@@ -22,3 +25,34 @@
         background-color: $blueLight;
     }
    }
+   @media #{$small-down} {
+    nav .navigate
+    {
+        display: none;
+        flex-direction: column;
+        background: #48435C;
+        height: 220px;
+    }
+ 
+    nav .navigate a {
+        width: 10%;
+       
+    }
+ 
+    label 
+    {
+        width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        font-size: 40px;
+        color: black;
+        cursor: pointer;
+    }
+ 
+    #toggle:checked + .navigate {
+        display: flex;
+    }
+}
+  
