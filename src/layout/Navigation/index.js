@@ -8,7 +8,7 @@ function Navigation(){
     <a href="/home " className="home">Accueil</a> 
     <a href="/presentation" className="quisuisje">Qui suis-je?</a>
     <a href="/projets" className="projets">Mes Projets</a>
-    <a href="mailto:melanieborja.pro@gmail.com" className="mail">Prendre Contact</a>
+    <a href="https://www.linkedin.com/in/m%C3%A9lanie-mariani-3275248a/" className="mail">Prendre Contact</a>
     </nav>
             
         </div>
