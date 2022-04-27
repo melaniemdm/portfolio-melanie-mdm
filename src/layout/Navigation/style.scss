@@ -31,7 +31,7 @@ label, #toggle
         display: none;
         position: relative;
         top: 1px;
-        gap: 5px;
+        gap: 15px;
      
     }
  
@@ -45,6 +45,9 @@ label, #toggle
     display: flex;
     justify-content:center;
     align-items:center;
+    }
+    .navigate{
+        justify-content:center;
     }
     label 
     {
