@@ -3,9 +3,9 @@ import Accueil from '../../components/Accueil'
 function AccueilPages() {
 
     return (
-        <div className="homePage">
+        <div>
       <Accueil/>
-      page d'accueil
+      
       </div>
     );
   }

@@ -1,0 +1,15 @@
+@import '../../styles/communs.scss';
+
+.containerPresentMe{
+    padding-top:30px;
+   min-height:50vh; 
+margin: 50px;
+border-radius:30px;
+ }
+
+ .hoverCard{
+margin: 20px;
+border-radius:30px;
+box-shadow: 12px 12px 2px 1px rgba(33, 33, 34, 0.2);
+outline: 1px dashed  $blue;
+ }
