@@ -1,3 +1,3 @@
 # Projet Mon portfolio
 
-utlisation de UIKIT, JabaScript, React, scss
+utlisation de UIKIT, JavaScript, React, scss
