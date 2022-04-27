@@ -5,7 +5,7 @@ function PresentMe(){
         <div  className="containerPrentation">
 <h2>Qui suis je?</h2>
 
-<div className="txtPresentation">Après un début de carrière en tant qu'assistante de direction, j'ai découvert le Dev et c'est devenu une réelle passion.<br />Depuis maintenant 2 ans, je fais une formation de développement JavaScript - React (anciennement front-end).  <br /> Je compte poursuivre ensuite par un cursus développeur web de préférence en alternance afin d'augmenter mes connaissances et compétences. <br /> Je suis diponible pour de la freelance : https://www.malt.fr/profile/melanieborja<br />Vous pouvez également retrouver mes réalisations sur le lien suivant https://melaniemdm.github.io/
+<div className="txtPresentation">Après un début de carrière en tant qu'assistante de direction, j'ai découvert le Dev et c'est devenu une réelle passion.<br />Depuis maintenant 2 ans, je fais une formation de développement JavaScript - React (anciennement front-end).  <br /> Je compte poursuivre ensuite par un cursus développeur web de préférence en alternance afin d'augmenter mes connaissances et compétences. <br /> Je suis disponible pour de la freelance : https://www.malt.fr/profile/melanieborja<br />Vous pouvez également retrouver mes réalisations sur le lien suivant https://melaniemdm.github.io/
 
 </div>
 
