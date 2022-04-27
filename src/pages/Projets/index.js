@@ -1,12 +1,14 @@
-import Projets from '../../components/Projets'
+import Projets from '../../components/Projets';
+import { listeDesProjets} from '../../datas/projetsListe.js';
+
 
 function ProjetsPage(){
 
     return (
         <div>
 page des projets
-<Projets/>
 
+<div id="containerListe">{listeDesProjets.map(projet=> <Projets key={projet.id} projet={projet}/>)}   </div>
         </div>
     )
 }

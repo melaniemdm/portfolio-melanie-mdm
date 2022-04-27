@@ -1,19 +1,19 @@
 import '../../components/Projets/style.scss';
-import canard from '../../assets/fisheye.png';
 
-function Projets() {
+
+function Projets(props) {
 
     return (
         <div className="containerListCardProjet">
      <div className="card">
-       <div className="titleProjet"> Réservia </div>
-       <div className="describe"> blavbpodujjpfuzsrfg </div>
+       <div className="titleProjet"> {props.projet.title} </div>
+       <div className="describe">  {props.projet.describe} </div>
        </div>
        <div className="ContainerImgProjet">
-       <a href="https://melaniemdm.github.io/fisheye/">
+       <a href={props.projet.lien}>
        <img
             className="imgProjet"
-                    src={canard}
+                    src={props.projet.picture}
             alt="img du projet"
           ></img>
 </a>
