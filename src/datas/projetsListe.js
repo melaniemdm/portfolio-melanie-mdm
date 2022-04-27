@@ -2,14 +2,14 @@ export const listeDesProjets = [
   {
     id: "Projet N°1",
     title: "Reservia",
-    picture: "/pictures-projet/reservia.jpg",
+    picture: "/portfolio-melanie-mdm/pictures-projet/reservia.jpg",
     describe: "Site de reservation d'hôtels",
     lien: "/Projet_2_Reservia/Reservia.html",
   },
   {
     id: "Projet N°2",
     title: "OhMyFood",
-    picture: "/pictures-projet/ohmyfood.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/ohmyfood.png",
     describe:
       "Site pour mobile qui repertorie les menus de plusieurs retaurants gastronomiques",
     lien: "https://melaniemdm.github.io/Projet_3_ohmyfood/",
@@ -17,7 +17,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°3",
     title: "GameOn",
-    picture: "/pictures-projet/gameOn.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/gameOn.png",
     describe:
       "Ajoute de code JavaScript manquant pour que le formulaire du site soit pleinement fonctionnel",
     lien: "https://melaniemdm.github.io/GameOn-website-FR/starterOnly/",
@@ -25,7 +25,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°4",
     title: "fishEye",
-    picture: "/pictures-projet/fisheye.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/fisheye.png",
     describe:
       "Construction d'un prototype fonctionnel d'un nouveau site web pour les photographes.",
     lien: "https://melaniemdm.github.io/fisheye/",
@@ -33,7 +33,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°5",
     title: "Cab&Co",
-    picture: "/pictures-projet/cab.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/cab.png",
     describe:
       "Construction d'un prototype  d'un nouveau site web pour des experts comptables. ",
     lien: "https://melaniemdm.github.io/Cab_And_co/",
@@ -41,7 +41,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°6",
     title: "animalsLove",
-    picture: "/pictures-projet/animalsLove.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/animalsLove.png",
     describe:[
       "Construction d'un prototype d'un nouveau site web dédié a l'adoption d'animaux", <br key="1" />,
        "Création de diverses affiches pour des evenements "], 
@@ -50,7 +50,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°7",
     title: "Les petits Plats",
-    picture: "/pictures-projet/petitsPlats.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/petitsPlats.png",
     describe:
       "Implémentation de fonctionnalités de recherche pour un site de recettes de cuisine",
     lien: "https://melaniemdm.github.io/les_Petits_Plats/",
@@ -58,7 +58,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°8",
     title: "PSM94",
-    picture: "/pictures-projet/psm94.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/psm94.png",
     describe:[
         " Prototype d'un site de psychologie à Saint-Maur", <br key="1" />,
          "Utilisation des fonctionnalités gratuites Wordpress 5 pour la conception du prototype du site d'un professionnel de santé "], 
@@ -67,7 +67,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°9",
     title: "jsMarketing",
-    picture: "/pictures-projet/jsMarketing.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/jsMarketing.png",
     describe:[
         "  Amélioration d'un site marketing pour un auto-entrepreneur ", <br key="1" />,
          "Respect du cahier des charges et adaptation d'un thème WordPress aux spécificités souhaitées par le client.",<br key="2" />,
@@ -77,7 +77,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°10",
     title: "testOn",
-    picture: "/pictures-projet/testOn.jpg",
+    picture: "/portfolio-melanie-mdm/pictures-projet/testOn.jpg",
     describe:[
         "   Maquette d'un site de vente avec modal et prix évolutif  ", <br key="1" />,
          "Respect du cahier des charges et de la maquette."], 
