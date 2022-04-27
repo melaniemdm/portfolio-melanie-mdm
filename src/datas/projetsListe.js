@@ -87,21 +87,21 @@ export const listeDesProjets = [
   {
     id: "Projet N°11",
     title: "vendTout",
-    picture: "/pictures-projet/vendTout.jpg",
+    picture: "/portfolio-melanie-mdm/pictures-projet/vendTout.jpg",
     describe:"Maquette d'un site de vente en ligne ", 
          lien: "https://melaniemdm.github.io/vendTout/",
   },
   {
     id: "Projet N°12",
     title: "Billed",
-    picture: "/pictures-projet/billed.jpg",
+    picture: "/portfolio-melanie-mdm/pictures-projet/billed.jpg",
     describe:" Ajout de tests unitaires et d'integration", 
          lien: " ",
   },
   {
     id: "Projet N°13",
     title: "Learn@Home",
-    picture: "/pictures-projet/learn.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/learn.png",
     describe:[
         " Création d'une maquette pour un site de soutien scolaire", <br key="1" />,
          "Utilisation de Notion et de Figma "], 
@@ -110,7 +110,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°14",
     title: "Kasa",
-    picture: "/pictures-projet/kasa.jpg",
+    picture: "/portfolio-melanie-mdm/pictures-projet/kasa.jpg",
     describe:[
         " Création d'un site de reservation de logement", <br key="1" />,
          "Utilisation de React"], 
@@ -119,7 +119,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°15",
     title: " Association Saint Maurienne des Amis des animaux",
-    picture: "/pictures-projet/asmaaCard.jpg",
+    picture: "/portfolio-melanie-mdm/pictures-projet/asmaaCard.jpg",
     describe:"Création de cards pour l'adoption des chats d'un refuge",
          lien: "https://melaniemdm.github.io/adopt-un-chat/",
   },
