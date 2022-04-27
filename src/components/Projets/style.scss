@@ -1,5 +1,18 @@
 @import '../../styles/communs.scss';
-
+.containerListe {
+    background-color: $blue;
+    display: flex;
+    justify-content:space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  gap: 30px;
+margin-left:50px;
+margin-right:50px;
+margin-bottom: 50px;
+border-radius:10px;
+padding: 30px;
+}
 .containerListCardProjet{
     background-color: $blueLight;
     border-radius:10px;
@@ -29,4 +42,9 @@ box-shadow: 5px 5px 5px black;
 }
 .describe{
     font-size:10px;
+}
+@media #{$medium-down} {
+    .containerListe {
+        padding-left: 0px;
+    }
 }

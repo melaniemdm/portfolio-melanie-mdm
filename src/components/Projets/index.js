@@ -4,6 +4,7 @@ import '../../components/Projets/style.scss';
 function Projets(props) {
 
     return (
+      
         <div className="containerListCardProjet">
      <div className="card">
        <div className="titleProjet"> {props.projet.title} </div>
