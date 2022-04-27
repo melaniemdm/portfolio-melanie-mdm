@@ -67,7 +67,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°9",
     title: "jsMarketing",
-    picture: "/portfolio-melanie-mdm/pictures-projet/jsMarketing.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/jsmarketing.png",
     describe:[
         "  Amélioration d'un site marketing pour un auto-entrepreneur ", <br key="1" />,
          "Respect du cahier des charges et adaptation d'un thème WordPress aux spécificités souhaitées par le client.",<br key="2" />,
