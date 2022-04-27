@@ -1,0 +1,21 @@
+@import '../../styles/communs.scss';
+
+.containerPrentation{
+
+margin-left:50px;
+margin-right:50px;
+}
+.txtPresentation{
+@include containerPrésentation;
+
+}
+
+
+.containerListCompetence{
+    @include containerPrésentation;
+ display: flex;
+ justify-content:space-between;
+flex-wrap: wrap;
+gap: 30px;
+ min-height:50vh; 
+}

@@ -1,2 +1,12 @@
 $blue: #002a3d;
 $blueLight: #5b9bd5;
+
+@mixin containerPrésentation{
+outline: 1px solid $blue;
+background-color:$blue;
+color:white;
+border-radius: 10px;
+padding: 20px;
+color: $blueLight;
+margin-bottom:50px;
+}
