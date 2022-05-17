@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-melanie-mdm/static/css/main.8e91a08e.css",
-    "main.js": "/portfolio-melanie-mdm/static/js/main.4c8ad373.js",
+    "main.css": "/portfolio-melanie-mdm/static/css/main.f2c59605.css",
+    "main.js": "/portfolio-melanie-mdm/static/js/main.f9e6791b.js",
     "static/js/67.c8a6df78.chunk.js": "/portfolio-melanie-mdm/static/js/67.c8a6df78.chunk.js",
     "index.html": "/portfolio-melanie-mdm/index.html",
-    "main.8e91a08e.css.map": "/portfolio-melanie-mdm/static/css/main.8e91a08e.css.map",
-    "main.4c8ad373.js.map": "/portfolio-melanie-mdm/static/js/main.4c8ad373.js.map",
+    "main.f2c59605.css.map": "/portfolio-melanie-mdm/static/css/main.f2c59605.css.map",
+    "main.f9e6791b.js.map": "/portfolio-melanie-mdm/static/js/main.f9e6791b.js.map",
     "67.c8a6df78.chunk.js.map": "/portfolio-melanie-mdm/static/js/67.c8a6df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e91a08e.css",
-    "static/js/main.4c8ad373.js"
+    "static/css/main.f2c59605.css",
+    "static/js/main.f9e6791b.js"
   ]
 }
