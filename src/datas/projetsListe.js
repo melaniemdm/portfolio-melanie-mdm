@@ -114,7 +114,7 @@ export const listeDesProjets = [
     describe:[
         " Création d'un site de reservation de logement", <br key="1" />,
          "Utilisation de React"], 
-         lien: " ",
+         lien: "https://melaniemdm.github.io/kasa-oc/",
   },
   {
     id: "Projet N°15",
@@ -135,7 +135,7 @@ export const listeDesProjets = [
     title: " MDM DEVELOPMENT",
     picture: "/portfolio-melanie-mdm/pictures-projet/mdm.png",
     describe:"Prototype de site pour un dev front-end",
-         lien: "https://melaniemdm.github.io/kasa-oc/",
+         lien: "https://melaniemdm.github.io/mdm_development/",
   },
 
 
