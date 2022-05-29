@@ -135,7 +135,7 @@ export const listeDesProjets = [
     title: " MDM DEVELOPMENT",
     picture: "/portfolio-melanie-mdm/pictures-projet/mdm.png",
     describe:"Prototype de site pour un dev front-end",
-         lien: "https://melaniemdm.github.io/mdm_development/",
+         lien: "https://melaniemdm.github.io/kasa-oc/",
   },
 
 
