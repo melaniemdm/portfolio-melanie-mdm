@@ -127,16 +127,22 @@ export const listeDesProjets = [
     id: "Projet N°16",
     title: " LCT CREATIONS",
     picture: "/portfolio-melanie-mdm/pictures-projet/lct.png",
-    describe:"prototype de site avec diverses animations (carouselle, affichage au schroll...)",
+    describe:"Prototype de site avec diverses animations (carouselle, affichage au schroll...)",
          lien: "https://melaniemdm.github.io/lct-creations/",
   },
   {
     id: "Projet N°17",
     title: " MDM DEVELOPMENT",
     picture: "/portfolio-melanie-mdm/pictures-projet/mdm.png",
-    describe:"Prototype de site pour un dev front-end",
+    describe:"Réalisation d'un site en javaScript React pour un dev front-end",
          lien: "https://melaniemdm.github.io/mdm_development/",
   },
-
+  {
+    id: "Projet N°18",
+    title: " Intelligence Canine",
+    picture: "/portfolio-melanie-mdm/pictures-projet/intelligence.png",
+    describe:"Réalisation d'un site en javaScript React",
+         lien: "https://melaniemdm.github.io/intelligence_canine/",
+  },
 
 ];
