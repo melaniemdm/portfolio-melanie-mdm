@@ -144,5 +144,11 @@ export const listeDesProjets = [
     describe:"Réalisation d'un site en javaScript React",
          lien: "https://melaniemdm.github.io/intelligence_canine/",
   },
-
+  {
+    id: "Projet N°19",
+    title: "Fondation Jacques Secretin",
+    picture: "/portfolio-melanie-mdm/pictures-projet/fjs.png",
+    describe:"Prototype de site internet pour la Fondation Jacques Secrétin ",
+         lien: "https://melaniemdm.github.io/fondation-jacques-secretin/",
+  },
 ];
