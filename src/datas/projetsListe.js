@@ -119,7 +119,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°15",
     title: " Association Saint Maurienne des Amis des animaux",
-    picture: "/portfolio-melanie-mdm/pictures-projet/asmaaCard.jpg",
+    picture: "/portfolio-melanie-mdm/pictures-projet/asmaaCard.png",
     describe:"Création de cards pour l'adoption des chats d'un refuge",
          lien: "https://melaniemdm.github.io/adopt-un-chat/",
   },
@@ -149,6 +149,6 @@ export const listeDesProjets = [
     title: "Fondation Jacques Secretin",
     picture: "/portfolio-melanie-mdm/pictures-projet/fjs.png",
     describe:"Prototype de site internet pour la Fondation Jacques Secrétin ",
-         lien: "https://melaniemdm.github.io/fondation-jacques-secretin/",
+         lien: " https://melaniemdm.github.io/fondation-jacques-secretin/",
   },
 ];
