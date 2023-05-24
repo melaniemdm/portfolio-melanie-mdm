@@ -1,12 +1,15 @@
-import Accueil from '../../components/Accueil'
 
-function AccueilPages() {
+import Navigate from "../../components/Navigate";
 
+
+function Accueil() {
     return (
         <div>
-      <Accueil/>
-      
-      </div>
+           <Navigate/>
+          
+          
+        </div>
     );
-  }
-  export default AccueilPages;
+}
+
+export default Accueil;
