@@ -14,9 +14,9 @@ import './style.scss';
                   <p className="subtitle">
                     Envoyer un email à l'adresse  {''}
                     <span className="mail">
-                     melanieborja.pro
-                      <i className="fas fa-at at" />
-                      gmail.com
+                    
+                    <i className="fab fa-envelopes-bulk" />
+                     
                     </span>
                    
                   </p>
@@ -24,7 +24,7 @@ import './style.scss';
                 </div>
                 <SocialLinks />
               </div>
-              <form id="contact-form" action="#">
+              <form id="contact-form" action="mailto:melanieborja.pro@gmail.com" method="post" >
                 <input placeholder="Name" name="name" type="text" required />
                 <input placeholder="Email" name="email" type="email" required />
                 <textarea placeholder="Message" type="text" name="message" />
