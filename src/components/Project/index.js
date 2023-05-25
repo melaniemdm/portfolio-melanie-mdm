@@ -1,6 +1,4 @@
- /***********************
-    Project Component
-   ***********************/
+
   import './style.scss';
     function Project (props) {
         const tech = {

@@ -1,6 +1,7 @@
 export const listeDesProjets = [
   {
     id: "Projet N°1",
+    techno: "CSS",
     title: "Reservia",
     picture: "/portfolio-melanie-mdm/pictures-projet/reservia.jpg",
     describe: "Site de reservation d'hôtels",
@@ -8,6 +9,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°2",
+    techno: "HTML",
     title: "OhMyFood",
     picture: "/portfolio-melanie-mdm/pictures-projet/ohmyfood.png",
     describe:
@@ -24,6 +26,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°4",
+    techno: "HTML, CSS, JavaScript",
     title: "fishEye",
     picture: "/portfolio-melanie-mdm/pictures-projet/fisheye.png",
     describe:
@@ -32,14 +35,16 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°5",
+    techno: "HTML, framwork Tailwind",
     title: "Cab&Co",
     picture: "/portfolio-melanie-mdm/pictures-projet/cab.png",
     describe:
-      "Construction d'un prototype  d'un nouveau site web pour des experts comptables. ",
+      "Construction d'un prototype d'un nouveau site web pour des experts comptables. ",
       repo: "https://melaniemdm.github.io/Cab_And_co/",
   },
   {
     id: "Projet N°6",
+    techno: "HTML, CSS, JavaScript, framwork Tailwind, gimp",
     title: "animalsLove",
     picture: "/portfolio-melanie-mdm/pictures-projet/animalsLove.png",
     describe:[
@@ -49,6 +54,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°7",
+    techno: "HTML, CSS, JavaScript",
     title: "Les petits Plats",
     picture: "/portfolio-melanie-mdm/pictures-projet/petitsPlats.png",
     describe:
@@ -57,6 +63,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°8",
+    techno: "Wordpress",
     title: "PSM94",
     picture: "/portfolio-melanie-mdm/pictures-projet/psm94.png",
     describe:[
@@ -66,6 +73,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°9",
+    techno: "Wordpress, CSS",
     title: "jsMarketing",
     picture: "/portfolio-melanie-mdm/pictures-projet/jsmarketing.png",
     describe:[
@@ -76,6 +84,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°10",
+    techno: "HTML, CSS, JavaScript",
     title: "testOn",
     picture: "/portfolio-melanie-mdm/pictures-projet/testOn.jpg",
     describe:[
@@ -86,13 +95,15 @@ export const listeDesProjets = [
  
   {
     id: "Projet N°11",
+    techno: "HTML, CSS, JavaScript, unsplash",
     title: "vendTout",
     picture: "/portfolio-melanie-mdm/pictures-projet/vendTout.jpg",
-    describe:"Maquette d'un site de vente en ligne ", 
+    describe:"Prototype de site de vente en ligne ", 
     repo: "https://melaniemdm.github.io/vendTout/",
   },
   {
     id: "Projet N°12",
+    techno: "HTML, CSS, JavaScript, Jest",
     title: "Billed",
     picture: "/portfolio-melanie-mdm/pictures-projet/billed.jpg",
     describe:" Ajout de tests unitaires et d'integration", 
@@ -100,15 +111,15 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°13",
+    techno: "Figma, Notion",
     title: "Learn@Home",
     picture: "/portfolio-melanie-mdm/pictures-projet/learn.png",
-    describe:[
-        " Création d'une maquette pour un site de soutien scolaire", <br key="1" />,
-         "Utilisation de Notion et de Figma "], 
-     lien: " ",
+    describe:" Création d'une maquette pour un site de soutien scolaire",
+    lien: "https://www.notion.so/melaniemdm/Learn-Home-938bf1fd007f4ca8b59135869f2ab163",
   },
   {
     id: "Projet N°14",
+    techno: "Javascript, CSS",
     title: "Kasa",
     picture: "/portfolio-melanie-mdm/pictures-projet/kasa.jpg",
     describe:[
@@ -118,6 +129,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°15",
+    techno: "Simplebo, CSS",
     title: " Association Saint Maurienne des Amis des animaux",
     picture: "/portfolio-melanie-mdm/pictures-projet/asmaaCard.png",
     describe:"Création de cards pour l'adoption des chats d'un refuge",
@@ -125,6 +137,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°16",
+    techno: "HTML, CSS, JavaScript",
     title: " LCT CREATIONS",
     picture: "/portfolio-melanie-mdm/pictures-projet/lct.png",
     describe:"Prototype de site avec diverses animations (carouselle, affichage au schroll...)",
@@ -132,14 +145,16 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°17",
+    techno: "HTML, CSS, JavaScript, React",
     title: " MDM DEVELOPMENT",
-    picture: "/portfolio-melanie-mdm/pictures-projet/mdm.png",
+    picture: "/portfolio-melanie-mdm/pictures-projet/dev.png",
     describe:"Réalisation d'un site en javaScript React pour un dev front-end",
     repo: "https://melaniemdm.github.io/mdm_development/",
     lien:"https://www.mdm-development.fr/"
   },
   {
     id: "Projet N°18",
+    techno: "HTML, CSS, JavaScript, React",
     title: " Intelligence Canine",
     picture: "/portfolio-melanie-mdm/pictures-projet/intelligence.png",
     describe:"Réalisation d'un site en javaScript React",
@@ -148,9 +163,55 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°19",
+    techno: "HTML, CSS, JavaScript, React",
     title: "Fondation Jacques Secretin",
     picture: "/portfolio-melanie-mdm/pictures-projet/fjs.png",
     describe:"Prototype de site internet pour la Fondation Jacques Secrétin ",
     repo: " https://melaniemdm.github.io/fondation-jacques-secretin/",
   },
+  {
+    id: "Projet N°20",
+    techno: "HTML, CSS, JavaScript, React",
+    title: "Le Moulin a Web",
+    picture: "/portfolio-melanie-mdm/pictures-projet/moulin.png",
+    describe:"Site internet pour une agence de design et de développement de sites web ",
+    repo: " https://melaniemdm.github.io/fondation-jacques-secretin/",
+    lien: "http://www.lemoulinaweb.com/"
+  },
+{
+  id: "Projet N°21",
+  techno: "HTML, CSS, JavaScript, React",
+  title: "wealth_health_react",
+  picture: "/portfolio-melanie-mdm/pictures-projet/ww.png",
+  describe:"Passer un site web de Jquery vers React",
+  repo: "https://github.com/melaniemdm/wealth_health_react",
+  lien: ""
+},
+{
+  id: "Projet N°22",
+  techno: "HTML, CSS, JavaScript, React, Swagger",
+  title: "Bank API",
+  picture: "/portfolio-melanie-mdm/pictures-projet/bank.png",
+  describe:"Connexion d'un site de banque à un back-end",
+  repo: "https://github.com/melaniemdm/Project-10-Bank-API",
+  lien: ""
+},
+{
+  id: "Projet N°23",
+  techno: "HTML, CSS, JavaScript, React",
+  title: "Attendance Tracker",
+  picture: "/portfolio-melanie-mdm/pictures-projet/track.png",
+  describe:"Connexion d'une application de génération de billet avec QR Code unique",
+  repo: "https://github.com/melaniemdm/Attendance-Tracker",
+  lien: ""
+},
+{
+  id: "Projet N°24",
+  techno: "HTML, CSS, JavaScript, React",
+  title: "adaptativeresume",
+  picture: "/portfolio-melanie-mdm/pictures-projet/adapt.png",
+  describe:"Conception d'une landing page d'accueil",
+  repo: "https://github.com/melaniemdm/adaptiveresume",
+  lien: "https://adaptativeresume.netlify.app"
+},
 ];

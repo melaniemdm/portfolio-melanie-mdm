@@ -5,6 +5,7 @@
     margin: 1rem auto;
     width: 70%;
     padding: 2rem;
+    
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
@@ -33,7 +34,7 @@
   #projects .project .project-link:hover > img {
     filter: saturate(1);
     transform: scale(1.05);
-   
+    object-fit: cover;
   }
   
   #projects .project .project-image {
