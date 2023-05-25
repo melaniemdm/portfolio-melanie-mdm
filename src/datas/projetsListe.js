@@ -5,7 +5,8 @@ export const listeDesProjets = [
     title: "Reservia",
     picture: "/portfolio-melanie-mdm/pictures-projet/reservia.jpg",
     describe: "Site de reservation d'hôtels",
-    repo: "/Projet_2_Reservia/Reservia.html",
+    repo: "https://github.com/melaniemdm/Projet_2_Reservia",
+    lien:"https://melaniemdm.github.io/Projet_2_Reservia/Reservia.html"
   },
   {
     id: "Projet N°2",
@@ -14,7 +15,8 @@ export const listeDesProjets = [
     picture: "/portfolio-melanie-mdm/pictures-projet/ohmyfood.png",
     describe:
       "Site pour mobile qui repertorie les menus de plusieurs retaurants gastronomiques",
-      repo: "https://melaniemdm.github.io/Projet_3_ohmyfood/",
+      lien: "https://melaniemdm.github.io/Projet_3_ohmyfood/",
+      repo:"https://github.com/melaniemdm/Projet_3_ohmyfood"
   },
   {
     id: "Projet N°3",
@@ -22,7 +24,8 @@ export const listeDesProjets = [
     picture: "/portfolio-melanie-mdm/pictures-projet/gameOn.png",
     describe:
       "Ajoute de code JavaScript manquant pour que le formulaire du site soit pleinement fonctionnel",
-      repo: "https://melaniemdm.github.io/GameOn-website-FR/starterOnly/",
+      lien: "https://melaniemdm.github.io/GameOn-website-FR/starterOnly/",
+      repo:"https://github.com/melaniemdm/GameOn-website-FR"
   },
   {
     id: "Projet N°4",
@@ -31,7 +34,8 @@ export const listeDesProjets = [
     picture: "/portfolio-melanie-mdm/pictures-projet/fisheye.png",
     describe:
       "Construction d'un prototype fonctionnel d'un nouveau site web pour les photographes.",
-      repo: "https://melaniemdm.github.io/fisheye/",
+      lien: "https://melaniemdm.github.io/fisheye/",
+      repo:"https://github.com/melaniemdm/fisheye"
   },
   {
     id: "Projet N°5",
@@ -40,17 +44,19 @@ export const listeDesProjets = [
     picture: "/portfolio-melanie-mdm/pictures-projet/cab.png",
     describe:
       "Construction d'un prototype d'un nouveau site web pour des experts comptables. ",
-      repo: "https://melaniemdm.github.io/Cab_And_co/",
+      lien: "https://melaniemdm.github.io/Cab_And_co/",
+      repo:"https://github.com/melaniemdm/Cab_And_co"
   },
   {
     id: "Projet N°6",
     techno: "HTML, CSS, JavaScript, framwork Tailwind, gimp",
-    title: "animalsLove",
+    title: "AnimalsLove",
     picture: "/portfolio-melanie-mdm/pictures-projet/animalsLove.png",
     describe:[
       "Construction d'un prototype d'un nouveau site web dédié a l'adoption d'animaux", <br key="1" />,
        "Création de diverses affiches pour des evenements "], 
-       repo: "https://melaniemdm.github.io/animals-love/",
+       lien: "https://melaniemdm.github.io/animals-love/",
+       repo:"https://github.com/melaniemdm/animals-love"
   },
   {
     id: "Projet N°7",
@@ -59,7 +65,8 @@ export const listeDesProjets = [
     picture: "/portfolio-melanie-mdm/pictures-projet/petitsPlats.png",
     describe:
       "Implémentation de fonctionnalités de recherche pour un site de recettes de cuisine",
-      repo: "https://melaniemdm.github.io/les_Petits_Plats/",
+      lien: "https://melaniemdm.github.io/les_Petits_Plats/",
+      repo:"https://github.com/melaniemdm/les_Petits_Plats"
   },
   {
     id: "Projet N°8",
@@ -70,6 +77,7 @@ export const listeDesProjets = [
         " Prototype d'un site de psychologie à Saint-Maur", <br key="1" />,
          "Utilisation des fonctionnalités gratuites Wordpress 5 pour la conception du prototype du site d'un professionnel de santé "], 
     lien: "https://psm94.wordpress.com/",
+    repo:""
   },
   {
     id: "Projet N°9",
@@ -81,6 +89,7 @@ export const listeDesProjets = [
          "Respect du cahier des charges et adaptation d'un thème WordPress aux spécificités souhaitées par le client.",<br key="2" />,
          "Ajout d'un css personnalisé "], 
     lien: "https://psm94.wordpress.com/",
+    repo:""
   },
   {
     id: "Projet N°10",
@@ -90,7 +99,8 @@ export const listeDesProjets = [
     describe:[
         "   Maquette d'un site de vente avec modal et prix évolutif  ", <br key="1" />,
          "Respect du cahier des charges et de la maquette."], 
-         repo: "https://melaniemdm.github.io/testOn/",
+    lien: "https://melaniemdm.github.io/testOn/",
+    repo:"https://github.com/melaniemdm/testOn"
   },
  
   {
@@ -99,7 +109,8 @@ export const listeDesProjets = [
     title: "vendTout",
     picture: "/portfolio-melanie-mdm/pictures-projet/vendTout.jpg",
     describe:"Prototype de site de vente en ligne ", 
-    repo: "https://melaniemdm.github.io/vendTout/",
+    lien: "https://melaniemdm.github.io/vendTout/",
+    repo:"https://github.com/melaniemdm/vendTout"
   },
   {
     id: "Projet N°12",
@@ -107,7 +118,8 @@ export const listeDesProjets = [
     title: "Billed",
     picture: "/portfolio-melanie-mdm/pictures-projet/billed.jpg",
     describe:" Ajout de tests unitaires et d'integration", 
-         lien: " ",
+    lien:"",
+    repo: "https://github.com/melaniemdm/Billed ",
   },
   {
     id: "Projet N°13",
@@ -115,6 +127,7 @@ export const listeDesProjets = [
     title: "Learn@Home",
     picture: "/portfolio-melanie-mdm/pictures-projet/learn.png",
     describe:" Création d'une maquette pour un site de soutien scolaire",
+    repo:"",
     lien: "https://www.notion.so/melaniemdm/Learn-Home-938bf1fd007f4ca8b59135869f2ab163",
   },
   {
@@ -125,7 +138,8 @@ export const listeDesProjets = [
     describe:[
         " Création d'un site de reservation de logement", <br key="1" />,
          "Utilisation de React"], 
-         repo: "https://melaniemdm.github.io/kasa-oc/",
+         lien: "https://melaniemdm.github.io/kasa-oc/",
+         repo:"https://github.com/melaniemdm/kasa-oc"
   },
   {
     id: "Projet N°15",
@@ -134,6 +148,7 @@ export const listeDesProjets = [
     picture: "/portfolio-melanie-mdm/pictures-projet/asmaaCard.png",
     describe:"Création de cards pour l'adoption des chats d'un refuge",
     repo: "https://melaniemdm.github.io/adopt-un-chat/",
+    lien:""
   },
   {
     id: "Projet N°16",
@@ -141,7 +156,8 @@ export const listeDesProjets = [
     title: " LCT CREATIONS",
     picture: "/portfolio-melanie-mdm/pictures-projet/lct.png",
     describe:"Prototype de site avec diverses animations (carouselle, affichage au schroll...)",
-    repo: "https://melaniemdm.github.io/lct-creations/",
+    lien: "https://melaniemdm.github.io/lct-creations/",
+    repo:"https://github.com/melaniemdm/lct-creations"
   },
   {
     id: "Projet N°17",
@@ -149,7 +165,7 @@ export const listeDesProjets = [
     title: " MDM DEVELOPMENT",
     picture: "/portfolio-melanie-mdm/pictures-projet/dev.png",
     describe:"Réalisation d'un site en javaScript React pour un dev front-end",
-    repo: "https://melaniemdm.github.io/mdm_development/",
+    repo: "https://github.com/melaniemdm/mdm_development",
     lien:"https://www.mdm-development.fr/"
   },
   {
@@ -167,7 +183,8 @@ export const listeDesProjets = [
     title: "Fondation Jacques Secretin",
     picture: "/portfolio-melanie-mdm/pictures-projet/fjs.png",
     describe:"Prototype de site internet pour la Fondation Jacques Secrétin ",
-    repo: " https://melaniemdm.github.io/fondation-jacques-secretin/",
+    lien: " https://melaniemdm.github.io/fondation-jacques-secretin/",
+    repo:"https://github.com/melaniemdm/fondation-jacques-secretin"
   },
   {
     id: "Projet N°20",
