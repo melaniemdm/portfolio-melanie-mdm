@@ -9,8 +9,8 @@
         
         };
       
-        const link = props.link || 'http://';
-        const repo = props.repo || 'http://';
+        const link = props.link 
+        const repo = props.repo 
       
         return (
           <div className="project">
@@ -28,13 +28,17 @@
               </div>
               {props.children}
               <div className="buttons">
-                <a href={repo} target="_blank" rel="noopener noreferrer">
-                  Source <i className="fas fa-external-link-alt" />
-                </a>
-                <a href={link} target="_blank" rel="noopener noreferrer">
-                 Site en ligne <i className="fas fa-external-link-alt" />
-                </a>
-              </div>
+  {repo !== "" && (
+    <a href={repo} target="_blank" rel="noopener noreferrer">
+      Source <i className="fas fa-external-link-alt" />
+    </a>
+  )}
+  {link !== "" && (
+    <a href={link} target="_blank" rel="noopener noreferrer">
+      Site en ligne <i className="fas fa-external-link-alt" />
+    </a>
+  )}
+</div>
             </div>
           </div>
         );

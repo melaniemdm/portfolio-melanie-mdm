@@ -20,6 +20,7 @@ export const listeDesProjets = [
   },
   {
     id: "Projet N°3",
+    techno: "JavaScript",
     title: "GameOn",
     picture: "/portfolio-melanie-mdm/pictures-projet/gameOn.png",
     describe:
@@ -197,7 +198,7 @@ export const listeDesProjets = [
   },
 {
   id: "Projet N°21",
-  techno: "HTML, CSS, JavaScript, React",
+  techno: "HTML, CSS, JavaScript, React, Redux",
   title: "wealth_health_react",
   picture: "/portfolio-melanie-mdm/pictures-projet/ww.png",
   describe:"Passer un site web de Jquery vers React",
@@ -206,7 +207,7 @@ export const listeDesProjets = [
 },
 {
   id: "Projet N°22",
-  techno: "HTML, CSS, JavaScript, React, Swagger",
+  techno: "HTML, CSS, JavaScript, React, Redux, Swagger",
   title: "Bank API",
   picture: "/portfolio-melanie-mdm/pictures-projet/bank.png",
   describe:"Connexion d'un site de banque à un back-end",

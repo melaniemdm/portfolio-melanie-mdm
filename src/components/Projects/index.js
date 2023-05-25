@@ -15,6 +15,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
               </div>
               <div className="projects-wrapper">
               </div>
+              
                 <div className="containerListe">{listeDesProjets.map(projet=> <Project 
                 key={projet.id} projet={projet}
                   title={projet.title}
@@ -22,13 +23,18 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
                   tech="js css react node"
                   link={projet.lien}
                   repo={projet.repo}
+                  techno={projet.techno}
                 >
                   <small>
                     {projet.describe}
-                  </small>
+                    </small><br></br>
+                    <small><div className="techno">
+                  Techno(s) utlisée(s) :{projet.techno} </div>    
+                    </small>
+                  
                   <p>
-                   
-                  </p>
+                 </p>
+                
                 </Project>)} 
                
               </div>
