@@ -11,7 +11,7 @@ import './style.scss';
                    Me contacter
                   </p>
                   <p className="separator" />
-                  <p className="subtitle">
+                  {/* <p className="subtitle">
                     Envoyer un email à l'adresse  {''}
                     <span className="mail">
                     
@@ -19,8 +19,8 @@ import './style.scss';
                      
                     </span>
                    
-                  </p>
-                  <p className="subtitle"> ou remplir le formulaire ci dessous :</p>
+                  </p> */}
+                  <p className="subtitle"> Via le formulaire ci dessous :</p>
                 </div>
                 <SocialLinks />
               </div>

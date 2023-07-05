@@ -3,6 +3,10 @@ import './style.scss'
 import { listeDesProjets} from '../../datas/projetsListe.js'; 
 
     function Projects (props) {
+      const sortedProjects = [...listeDesProjets].sort((a, b) =>  new Date(b.date_realisation) - new Date(a.date_realisation));
+      console.log(sortedProjects)
+      const sampleDate = listeDesProjets[0].date_realisation;
+      console.log(sampleDate);
         return (
           <section id="projects">
             <div className="projects-container">
@@ -16,7 +20,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
               <div className="projects-wrapper">
               </div>
               
-                <div className="containerListe">{listeDesProjets.map(projet=> <Project 
+                <div className="containerListe">{sortedProjects.map(projet=> <Project 
                 key={projet.id} projet={projet}
                   title={projet.title}
                   img={projet.picture}
@@ -29,7 +33,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
                     {projet.describe}
                     </small><br></br>
                     <small><div className="techno">
-                  Techno(s) utlisée(s) :{projet.techno} </div>    
+                  Techno(s) utlisée(s) : {projet.techno} </div>    
                     </small>
                   
                   <p>
