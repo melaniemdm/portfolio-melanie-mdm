@@ -88,7 +88,7 @@
     right: 0;
     position: fixed;
     background: url(https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Images/Moon.svg?sanitize=true) right 150% no-repeat;
-    background-size: 40% 40%;
+    background-size: auto;
     background-attachment: fixed;
     width: 100%;
     height: 100%;
@@ -109,6 +109,9 @@
   }
   
   /* Copy and CTA */
+  .container1{
+     height: 300%;
+  }
   #welcome-section .container {
     width: fit-content;
     position: absolute;

@@ -11,7 +11,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
           <section id="projects">
             <div className="projects-container">
               <div className="heading">
-                <h3 className="title">Mes projets</h3>
+                <h3 className="title">Projets Phares et Réalisations Clés</h3>
                 <p className="separator" />
                 <p className="subtitle">
                 Voici un aperçu des projets majeurs auxquels j'ai contribué, tant dans le cadre de ma formation avec OpenClassrooms que lors de mes initiatives personnelles chez MDM DEVELOPMENT.{' '}

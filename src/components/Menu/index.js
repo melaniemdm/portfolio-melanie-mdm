@@ -9,17 +9,17 @@ import SocialLinks from "../SocialLinks";
           <ul>
             <li>
               <a href="#welcome-section" onClick={props.toggleMenu}>
-                Accueil
+              Mon Univers
               </a>
             </li>
             <li>
               <a href="#about" onClick={props.toggleMenu}>
-                Présentation
+              Mon Parcours et Projets 
               </a>
             </li>
             <li>
               <a href="#projects" onClick={props.toggleMenu}>
-                Mes réalisations
+              Projets Phares
               </a>
             </li>
             <li>

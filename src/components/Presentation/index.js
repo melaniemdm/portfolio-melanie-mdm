@@ -19,7 +19,7 @@
                   <p>La passion pour le développement informatique est le moteur qui guide chacun de mes projets. Je suis enthousiaste à l'idée de continuer à apprendre, à grandir dans ce domaine et à relever de nouveaux défis.</p>
                 </div>
                 <div className="title">
-                  <h3>Mon eExpertise et mon Savoir-Faire en Développement Web</h3>
+                  <h3>Mon Expertise et mon Savoir-Faire en Développement Web</h3>
                   <p className="separator" />
                 </div>
                 <div className="desc full">
