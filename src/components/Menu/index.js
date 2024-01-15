@@ -14,7 +14,7 @@ import SocialLinks from "../SocialLinks";
             </li>
             <li>
               <a href="#about" onClick={props.toggleMenu}>
-              Mon Parcours et Projets 
+              Mon Parcours 
               </a>
             </li>
             <li>
