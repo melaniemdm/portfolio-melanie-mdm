@@ -6,6 +6,8 @@
           css: 'fab fa-css3-alt',
           js: 'fab fa-js-square',
           react: 'fab fa-react',
+          angular:'fab fa-angular',
+        
         
         };
       
