@@ -5,33 +5,33 @@
             <div className="wrapper">
               <article>
                 <div className="title">
-                  <h3>Qui suis-je?</h3>
+                  <h3>Mon Parcours et Projets en Développement Web</h3>
                   <p className="separator" />
                 </div>
                 <div className="desc full">
-                  <h4 className="subtitle">Bonjour et bienvenu sur mon portfolio !</h4>
+                  <h4 className="subtitle">Bonjour et bienvenue sur mon portfolio !</h4>
                   <p>
-                  Je viens d’obtenir ma licence de développeur front-end javascript avec OC. En parallèle de la formation OC, j’ai ouvert ma propre société en auto-entrepreneur afin de me former sur le terrain ce qui m’a permis de mettre en pratique les compétences que j’ai acquises petit à petit durant ma formation. 
+                  Récemment diplômée en tant que développeuse front-end JavaScript par OpenClassrooms, j'ai simultanément fondé ma propre entreprise en tant qu'auto-entrepreneure. Cette expérience m'a offert une formation pratique précieuse, me permettant d'appliquer et d'approfondir progressivement les compétences acquises au cours de ma formation. 
                   </p>
                   <p>
-                  J'ai ainsi pu développer des sites vitrines pour des entrepreneurs et développer avec des contraintes professionnelles, ce qui a été un complément très formateur à ce que j'ai acquis durant mon cursus.
-                  Aujourd’hui je souhaite continuer mes études et améliorer mes connaissances ainsi que mes compétences en réalisant un bac +5 développeur full-stack java angular toujours avec oc afin de terminer le cursus complètement.
+                  Au fil de cette aventure, j'ai eu l'opportunité de concevoir des sites vitrines pour divers entrepreneurs, travaillant ainsi sous des contraintes professionnelles réelles. Cette expérience a enrichi de manière significative les connaissances acquises durant mon cursus académique. Je suis maintenant déterminée à poursuivre mon parcours éducatif en visant un diplôme de niveau Bac +5 en tant que développeuse full-stack, spécialisée en Java et Angular, toujours avec OpenClassrooms, afin de compléter pleinement mon parcours de formation.
                   </p>
-                  <p>Je suis passionnée par le developpement informatique !</p>
+                  <p>La passion pour le développement informatique est le moteur qui guide chacun de mes projets. Je suis enthousiaste à l'idée de continuer à apprendre, à grandir dans ce domaine et à relever de nouveaux défis.</p>
                 </div>
                 <div className="title">
-                  <h3>Mes compétences et connaissances</h3>
+                  <h3>Mon eExpertise et mon Savoir-Faire en Développement Web</h3>
                   <p className="separator" />
                 </div>
                 <div className="desc full">
-                  <h4 className="subtitle">Je suis développeur Junior</h4>
+                  <h4 className="subtitle">En tant que développeur junior,</h4>
                   
-                  <p>J’ai différentes compétences comme l’esprit d’équipe de par mon ancienne vie professionelle et j’ai eu l’occasion de développer de nouvelles compétences de par ma formation telle que la capacité d’apprendre et de m’approprier differents projets. </p>
+                  <p>j'apporte un ensemble diversifié de compétences et connaissances acquises à la fois dans mon parcours professionnel antérieur et ma formation récente. Mon expérience précédente m'a doté d'un fort esprit d'équipe, tandis que ma formation en développement m'a permis de cultiver une capacité rapide d'apprentissage et d'adaptation à divers projets. </p>
                   <p>
-                  En ce qui concerne le front-end, je maîtrise principalement Javascript que j'utilise de manière autonome ou en intégrant des frameworks populaires tels que ReactJS.  </p>
-                  <p> Je suis également compétente dans l'embellissement des sites web en utilisant Sass, CSS et, si nécessaire, d'autres outils tels que Bootstrap. J'apprécie l'harmonie visuelle et je m'efforce de créer des interfaces esthétiques et conviviales.
+                  Dans le domaine du front-end, ma spécialité est le JavaScript, que je manie avec aisance, aussi bien de manière autonome qu'en l'associant à des frameworks réputés tels que ReactJS.</p>
+
+                  <p> Je possède également une expertise dans l'amélioration esthétique des sites web, utilisant Sass et CSS avec compétence, et complétant, si nécessaire, avec des outils comme Bootstrap. J'accorde une grande importance à l'harmonie visuelle et m'attache à concevoir des interfaces à la fois esthétiques et fonctionnelles.
                   </p>
-                  <p>Si vous avez des questions sur mon parcours? Ou que vous voulez que j’approfondisse un point? Contactez-moi !</p>
+                  <p>Si vous avez des questions sur mon parcours ou souhaitez que j'élargisse sur un aspect particulier, n'hésitez pas à me contacter !</p>
                   
                         </div>
                

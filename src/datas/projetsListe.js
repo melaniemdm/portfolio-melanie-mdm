@@ -254,4 +254,15 @@ export const listeDesProjets = [
   repo: "https://github.com/melaniemdm/adaptiveresume",
   lien: "https://adaptativeresume.netlify.app"
 },
+{
+  id: "Projet N°25",
+  date_realisation :  "2023-11-01",
+  techno: " HTML, SCSS, TypeScript, Angular",
+  title: "Event-Ease",
+  picture: "/portfolio-melanie-mdm/pictures-projet/eventEase.png",
+  describe:"Conception d'une applicatrion de gestion d'evenements pour une association",
+  repo: "https://github.com/melaniemdm/eventEase",
+  lien: "https://event-ease.netlify.app/#/login"
+},
+
 ];

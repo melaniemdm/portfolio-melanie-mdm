@@ -14,7 +14,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
                 <h3 className="title">Mes projets</h3>
                 <p className="separator" />
                 <p className="subtitle">
-                Voici une liste des principaux projets sur lesquels j'ai travaillé, à la fois pendant ma formation chez OpenClassrooms et dans le cadre de mes projets personnels {' '}
+                Voici un aperçu des projets majeurs auxquels j'ai contribué, tant dans le cadre de ma formation avec OpenClassrooms que lors de mes initiatives personnelles chez MDM DEVELOPMENT.{' '}
                                   </p>
               </div>
               <div className="projects-wrapper">
@@ -24,7 +24,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
                 key={projet.id} projet={projet}
                   title={projet.title}
                   img={projet.picture}
-                  tech="js css react node"
+                  tech="js css react node angular"
                   link={projet.lien}
                   repo={projet.repo}
                   techno={projet.techno}
