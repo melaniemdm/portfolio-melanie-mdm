@@ -33,3 +33,7 @@ a:hover,
 a:active {
   color: #f300b4;
 }
+
+/* *{
+  border: red 1px solid;
+} */
