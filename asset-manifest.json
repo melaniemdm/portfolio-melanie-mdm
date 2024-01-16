@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-melanie-mdm/static/css/main.2e05b332.css",
-    "main.js": "/portfolio-melanie-mdm/static/js/main.a1d1b0e3.js",
+    "main.js": "/portfolio-melanie-mdm/static/js/main.2a7e30ef.js",
     "static/js/941.d1b0faf2.chunk.js": "/portfolio-melanie-mdm/static/js/941.d1b0faf2.chunk.js",
     "index.html": "/portfolio-melanie-mdm/index.html",
     "main.2e05b332.css.map": "/portfolio-melanie-mdm/static/css/main.2e05b332.css.map",
-    "main.a1d1b0e3.js.map": "/portfolio-melanie-mdm/static/js/main.a1d1b0e3.js.map",
+    "main.2a7e30ef.js.map": "/portfolio-melanie-mdm/static/js/main.2a7e30ef.js.map",
     "941.d1b0faf2.chunk.js.map": "/portfolio-melanie-mdm/static/js/941.d1b0faf2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e05b332.css",
-    "static/js/main.a1d1b0e3.js"
+    "static/js/main.2a7e30ef.js"
   ]
 }
