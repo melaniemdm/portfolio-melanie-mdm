@@ -24,7 +24,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
                 key={projet.id} projet={projet}
                   title={projet.title}
                   img={projet.picture}
-                  tech="js css react node angular"
+                  tech={projet.techno}
                   link={projet.lien}
                   repo={projet.repo}
                   techno={projet.techno}
@@ -33,7 +33,7 @@ import { listeDesProjets} from '../../datas/projetsListe.js';
                     {projet.describe}
                     </small><br></br>
                     <small><div className="techno">
-                  Techno(s) utlisée(s) : {projet.techno} </div>    
+                  Techno(s) utlisée(s) : {projet.technoTXT} </div>    
                     </small>
                   
                   <p>

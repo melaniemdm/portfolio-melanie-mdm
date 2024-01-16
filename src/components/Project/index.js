@@ -7,8 +7,11 @@
           js: 'fab fa-js-square',
           react: 'fab fa-react',
           angular:'fab fa-angular',
-        
-        
+          html:'fab fa-html5',
+          wordpress:'fab fa-wordpress',
+          unsplash:'fab fa-unsplash',
+          figma:'fab fa-figma',
+          
         };
       
         const link = props.link 
@@ -21,11 +24,11 @@
             </a>
             <div className="project-details">
               <div className="project-tile">
-                <p className="icons">
-                  {props.tech.split(' ').map(t => (
-                    <i className={tech[t]} key={t} />
-                  ))}
-                </p>
+              <p className="icons">
+        {props.tech.split(' ').map(t => (
+          tech[t] ? <i className={tech[t]} key={t} /> : null
+        ))}
+      </p>
                 {props.title}{' '}
               </div>
               {props.children}
