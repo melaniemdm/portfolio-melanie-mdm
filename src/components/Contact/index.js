@@ -24,12 +24,21 @@ import './style.scss';
                 </div>
                 <SocialLinks />
               </div>
-              <form id="contact-form" action="mailto:melanieborja.pro@gmail.com" method="post" >
-                <input placeholder="Name" name="name" type="text" required />
-                <input placeholder="Email" name="email" type="email" required />
-                <textarea placeholder="Message" type="text" name="message" />
-                <input className="button" id="submit" value="Submit" type="submit" />
-              </form>
+             
+<div className="containerForm">
+          
+ 
+          <iframe
+            src="https://tally.so/r/wLpvPy?transparentBackground=1"
+            width="50%" height="650px"
+            title="Nous contacter">
+          </iframe>
+
+        </div>
+
+
+
+
             </div>
           </section>
         );
