@@ -107,7 +107,7 @@ export const listeDesProjets = [
         "  Amélioration d'un site marketing pour un auto-entrepreneur ", <br key="1" />,
          "Respect du cahier des charges et adaptation d'un thème WordPress aux spécificités souhaitées par le client.",<br key="2" />,
          "Ajout d'un css personnalisé "], 
-    lien: "https://psm94.wordpress.com/",
+    lien: "https://mdmmarketing94.wordpress.com/",
     repo:""
   },
   {
