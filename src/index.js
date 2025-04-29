@@ -5,6 +5,14 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
 import App from "./components/App";
+import 'devicon/devicon.min.css';
+
+import 'uikit/dist/css/uikit.min.css';
+import UIkit from 'uikit';
+import Icons from 'uikit/dist/js/uikit-icons';
+UIkit.use(Icons);
+
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

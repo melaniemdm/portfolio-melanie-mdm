@@ -285,9 +285,19 @@ export const listeDesProjets = [
   techno:"html sass typescript angular",
   title: "Event-Ease",
   picture: "/portfolio-melanie-mdm/pictures-projet/eventEase.png",
-  describe:"Conception d'une applicatrion de gestion d'evenements pour une association",
+  describe:"Conception d'une application de gestion d'evenements pour une association",
   repo: "https://github.com/melaniemdm/eventEase",
   lien: "https://event-ease.netlify.app/#/login"
 },
-
+{
+  id: "Projet N°26",
+  date_realisation :  "2025-04-01",
+  technoTXT: " HTML, SCSS, Typescript, Angular, java, spring, Maven",
+  techno:"html sass typescript angular java spring maven",
+  title: "Orion",
+  picture: "/portfolio-melanie-mdm/pictures-projet/orion.png",
+  describe:"Conception d'un MVP pour s’abonner à des thèmes et publier des articles",
+  repo: "https://github.com/melaniemdm/orion",
+  lien: ""
+},
 ];
