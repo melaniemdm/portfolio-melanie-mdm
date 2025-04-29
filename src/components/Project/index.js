@@ -11,7 +11,9 @@
           wordpress:'fab fa-wordpress',
           unsplash:'fab fa-unsplash',
           figma:'fab fa-figma',
-          
+          typescript:  'devicon devicon-typescript-plain colored',
+          maven:       'devicon devicon-maven-plain colored',
+          spring:      'devicon devicon-spring-plain colored',
         };
       
         const link = props.link 
@@ -19,7 +21,7 @@
       
         return (
           <div className="project">
-            <a className="project-link" href={link} target="_blank" rel="noopener noreferrer">
+            <a className="project-link"  target="_blank" rel="noopener noreferrer">
               <img className="project-image" src={props.img} alt={'Screenshot of ' + props.title} />
             </a>
             <div className="project-details">

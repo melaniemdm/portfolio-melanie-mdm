@@ -19,9 +19,9 @@ function TitlePrincipal(props) {
         </h1>
         </div>
         <div className="buttons">
-          <a href="#projects">my portfolio</a>
+          <a href="#projects">Mon portfolio</a>
           <a href="#contact" className="cta">
-            get in touch
+            Me contacter
           </a>
         </div>
       </div>
