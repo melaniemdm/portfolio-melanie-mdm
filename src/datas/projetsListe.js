@@ -49,7 +49,7 @@ export const listeDesProjets = [
   {
     id: "Projet N°5",
     date_realisation : "2021-08-03",
-    technoTXT: "HTML, framwork Tailwind",
+    technoTXT: "HTML, framework Tailwind",
     techno: "html tailwind",
     title: "Cab&Co",
     picture: "/portfolio-melanie-mdm/pictures-projet/cab.png",
