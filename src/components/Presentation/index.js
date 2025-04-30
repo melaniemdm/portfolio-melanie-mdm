@@ -29,7 +29,8 @@
                   
                   <p>J'apporte un ensemble diversifié de compétences et connaissances acquises à la fois dans mon parcours professionnel antérieur et ma formation récente. Mon expérience précédente m'a doté d'un fort esprit d'équipe, tandis que ma formation en développement m'a permis de cultiver une capacité rapide d'apprentissage et d'adaptation à divers projets. </p>
                   <p>
-                  Dans le développement front-end, je maîtrise aussi bien Angular que React (ReactJS) et les utilise avec aisance, que ce soit en autonomie ou en les combinant avec des frameworks reconnus</p>
+                  Dans le développement front-end, je maîtrise aussi bien Angular que React (ReactJS) et les utilise avec aisance, que ce soit en autonomie ou en les combinant avec des frameworks reconnus.</p>
+                  <p>Côté back-end, je développe en Java avec Spring Boot et gère des bases de données SQL (MySQL), en assurant un code maintenable, performant et sécurisé.</p>
 
                   <p> Je mets également à profit mon expertise en Sass et CSS pour améliorer l’esthétique des sites web, en m’appuyant, au besoin, sur des frameworks tels que Bootstrap.
                     Je suis également vigilante sur l’aspect technique que sur le visuel, j’élabore des schémas de bases de données optimisés et veille à l’écriture d’un code modulaire, documenté , garantissant ainsi la maintenabilité, la scalabilité et la robustesse des applications. Soucieuse d’une harmonie visuelle cohérente, je conçois des interfaces à la fois élégantes, intuitives et durables..
