@@ -22,17 +22,7 @@
               {' '}
               <i className="fab fa-linkedin" />
             </a>
-            <a
-              id="profile-link"
-              href="mailto:melanieborja.pro@gmail.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="author's mail"
-            >
-              {' '}
-              <i className="fas fa-at at"/>
-            
-            </a>
+           
           </div>
         );
       };
